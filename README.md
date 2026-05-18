@@ -28,4 +28,5 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Benita-it/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1907-count-salary-categories](https://github.com/Benita-it/leetcode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
