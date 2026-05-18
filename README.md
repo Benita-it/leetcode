@@ -24,4 +24,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Benita-it/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
