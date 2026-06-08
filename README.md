@@ -12,6 +12,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Benita-it/leetcode/tree/master/0066-plus-one) |
+| [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ My solution and notes for leetcode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Benita-it/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Benita-it/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -50,5 +53,6 @@ My solution and notes for leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
