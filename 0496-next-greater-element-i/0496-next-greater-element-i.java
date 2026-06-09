@@ -17,14 +17,13 @@ class Solution {
         int nums1Len=nums1.length;
         int nums2Len=nums2.length;
         int[] finalans=new int[nums1Len];
+        Map<Integer,Integer> map=new HashMap<>();
         int[] NGE=NGEFunction(nums2);
-        for(int i=0;i<nums1Len;i++){
-            for(int j=0;j<nums2Len;j++){
-                if(nums1[i]==nums2[j]){
-                    finalans[i]=NGE[j];
-                    break;
-                }
-            }
+        for(int i=0;i<nums2Len;i++){
+            map.put(nums2[i],NGE[i]);
+        }
+        for(int i=0;i<nums1.length;i++){
+            finalans[i]=map.get(nums1[i]);
         }
         return finalans;
     }
