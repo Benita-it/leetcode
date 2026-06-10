@@ -13,6 +13,7 @@ My solution and notes for leetcode problems
 | ------- |
 | [0066-plus-one](https://github.com/Benita-it/leetcode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 ## Math
@@ -23,12 +24,14 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -63,12 +66,23 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
