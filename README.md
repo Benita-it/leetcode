@@ -15,6 +15,7 @@ My solution and notes for leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ My solution and notes for leetcode problems
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
