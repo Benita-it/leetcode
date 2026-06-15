@@ -67,11 +67,13 @@ My solution and notes for leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benita-it/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benita-it/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -91,4 +93,12 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benita-it/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Benita-it/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
