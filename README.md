@@ -25,6 +25,7 @@ My solution and notes for leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Benita-it/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ My solution and notes for leetcode problems
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Benita-it/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Benita-it/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Benita-it/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Benita-it/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -100,6 +102,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Benita-it/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/Benita-it/leetcode/tree/master/0146-lru-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -112,4 +115,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Benita-it/leetcode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Benita-it/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
