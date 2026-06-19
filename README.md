@@ -8,6 +8,7 @@ My solution and notes for leetcode problems
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Benita-it/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My solution and notes for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +114,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Benita-it/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
