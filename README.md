@@ -18,6 +18,7 @@ My solution and notes for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Benita-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -114,6 +115,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Benita-it/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Benita-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Queue
 |  |
