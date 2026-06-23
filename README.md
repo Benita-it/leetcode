@@ -22,6 +22,7 @@ My solution and notes for leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Benita-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Benita-it/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +123,7 @@ My solution and notes for leetcode problems
 | [0239-sliding-window-maximum](https://github.com/Benita-it/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Benita-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Benita-it/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Benita-it/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -136,4 +139,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
