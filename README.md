@@ -22,6 +22,7 @@ My solution and notes for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Benita-it/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -49,6 +50,7 @@ My solution and notes for leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 ## Database
 |  |
 | ------- |
@@ -148,9 +150,15 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Benita-it/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
