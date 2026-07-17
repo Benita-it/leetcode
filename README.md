@@ -33,10 +33,12 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Benita-it/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Benita-it/leetcode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Benita-it/leetcode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Benita-it/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Benita-it/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Benita-it/leetcode/tree/master/0496-next-greater-element-i) |
@@ -151,6 +153,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Benita-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Benita-it/leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Benita-it/leetcode/tree/master/0611-valid-triangle-number) |
 ## Binary Search
