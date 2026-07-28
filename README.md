@@ -29,6 +29,7 @@ My solution and notes for leetcode problems
 | [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Benita-it/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1695-maximum-erasure-value](https://github.com/Benita-it/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -113,12 +114,14 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Benita-it/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
