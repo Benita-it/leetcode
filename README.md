@@ -13,6 +13,7 @@ My solution and notes for leetcode problems
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Benita-it/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Benita-it/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Benita-it/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My solution and notes for leetcode problems
 | [1052-grumpy-bookstore-owner](https://github.com/Benita-it/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1695-maximum-erasure-value](https://github.com/Benita-it/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Benita-it/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +189,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Benita-it/leetcode/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Benita-it/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
