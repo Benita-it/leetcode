@@ -11,6 +11,7 @@ My solution and notes for leetcode problems
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Benita-it/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Benita-it/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Benita-it/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/Benita-it/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Benita-it/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -30,6 +31,7 @@ My solution and notes for leetcode problems
 | [0739-daily-temperatures](https://github.com/Benita-it/leetcode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Benita-it/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Benita-it/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Benita-it/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Benita-it/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Benita-it/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -49,6 +51,7 @@ My solution and notes for leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/Benita-it/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Benita-it/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Benita-it/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/Benita-it/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -117,6 +120,7 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Benita-it/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Benita-it/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/Benita-it/leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Benita-it/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
@@ -194,4 +198,8 @@ My solution and notes for leetcode problems
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Benita-it/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Benita-it/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
