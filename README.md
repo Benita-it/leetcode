@@ -19,6 +19,7 @@ My solution and notes for leetcode problems
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Benita-it/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Benita-it/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Benita-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benita-it/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -163,6 +164,7 @@ My solution and notes for leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Benita-it/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Benita-it/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Benita-it/leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Benita-it/leetcode/tree/master/0567-permutation-in-string) |
